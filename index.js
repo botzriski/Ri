@@ -1,5 +1,5 @@
 /*
-HAI KAK SAYA APRILIA
+HAI KAK SAYA RIZKY
 SAYA INGIN MEMBERIKAN SCRIPT BOT WA
 SEMOGA BERMANFAAT
 
@@ -10,11 +10,11 @@ THANKS TO
 • ARDY (MASTAH)
 • FINX (MASTAH)
 • DINATA (MASTAH)+(MY GURU)
-• APRILIA (NEWBIE)
+• RIZKY (NEWBIE)
 • PENYEDIA MODULE
 • PENYEDIA REST API'S
 
-NOTE : KALO MAU COLONG CASE JANGAN SETENGAH-SETENGAH KASIHIN //CASE BY APRILIA GITU
+NOTE : KALO MAU COLONG CASE JANGAN SETENGAH-SETENGAH KASIHIN //CASE BY RIZKY GITU
 */
 const {
    WAConnection,
@@ -98,7 +98,7 @@ async function starts() {
 		start('2', 'Menyambungkan')
 	})
 	client.on('open', () => {
-		success('2', 'Sukses, Sc by Aprilia')
+		success('2', 'Sukses, Sc by Rizky')
 	})
 	await client.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./apri.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
@@ -731,17 +731,17 @@ SEMOGA HARIMU MENYENANGKAN
 -----------------------------------•
 
 INFO CREATOR BOT
-*Nama : Aprilia*
-*Instagram : @aprigans_*
+*Nama : Rizky*
+*Instagram :
 *YouTube : BOT INDO*
-*Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*Link Yt :
+*WhatsApp : wa.me/6289531724196*
 
 -----------------------------------•
 
 INFO BOT
 *Nama Bot : ${namabot}*
-*Author : Aprilia*
+*Author : Rizky*
 *Base : Mhankbarbar*
 *Library : Bailey*
 *Nama Owner : ${namaowner}*
@@ -1099,7 +1099,7 @@ _${prefix}ppcp_
 • ARDY (MASTAH)
 • FINX (MASTAH)
 • DINATA (MASTAH)
-• APRILIA (NEWBIE)
+• Rizky (NEWBIE)
 • PENYEDIA MODULE
 • PENYEDIA REST API'S
 `
@@ -2637,7 +2637,7 @@ _${prefix}setppbot_
 _${prefix}clearall_
 _${prefix}kickall_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2670,7 +2670,7 @@ _${prefix}bocil_
 _${prefix}ghea_
 _${prefix}rikagusriani_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2822,7 +2822,7 @@ _${prefix}panties_
 _${prefix}pussy_
 _${prefix}things_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -2850,7 +2850,7 @@ _${prefix}artinama_
 _${prefix}tebakumur_
 *DIKIT YE BRO SOALNYA BANYAK ERORNYA🙂*
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3060,7 +3060,7 @@ _${prefix}bokep22_
 _${prefix}bokep23_
 _${prefix}bokep24_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3093,7 +3093,7 @@ _${prefix}kisahnabi_
 
 *MARI BERHIJRAH*
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3641,7 +3641,7 @@ _${prefix}sound67_
 _${prefix}sound68_
 _${prefix}sound69_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3737,7 +3737,7 @@ _${prefix}attp_
 _${prefix}ttp_
 _${prefix}smeme_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3806,7 +3806,7 @@ case 'waifu':
 
             const ButtonssMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© By Rizky_`,
 
             buttons: buttonnsss,
 
@@ -3876,7 +3876,7 @@ _${prefix}otaku_
 _${prefix}komiku_
 _${prefix}ppcp_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
@@ -3919,7 +3919,7 @@ _${prefix}upswimage_
 _${prefix}upswvideo_
 _${prefix}upswteks_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*BY Rizky*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
